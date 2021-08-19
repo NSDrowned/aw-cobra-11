@@ -1,2 +1,7 @@
-# aw-cobra-11
-Sales funnel, codename "Cobra", made with NextJS with TypeScript, Redux Toolkit and styled components
+# Cobra Remake
+
+Jamstack sales funnel, codename "Cobra":
+
+- `NextJS` with `TypeScript`
+- `redux-toolkit`
+- `styled-components` for styling
